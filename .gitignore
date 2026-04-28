@@ -1,0 +1,30 @@
+# Models (too large for GitHub)
+models/
+*.pt
+*.pkl
+
+# Generated outputs
+outputs/
+
+# Data
+sentence_dataset.csv
+input/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Environments
+.env
+venv/
+env/
+
+# Jupyter
+.jupyter/
