@@ -113,7 +113,7 @@ Add books as `.txt` files under `input/prose/<AuthorName>/`, then:
 
 ```bash
 # Step 1 — Preprocessing
-jupyter notebook 501Preprocessing.ipynb
+jupyter notebook Preprocessing.ipynb
 
 # Step 2 — Train all models
 jupyter notebook authorship_attribution.ipynb
